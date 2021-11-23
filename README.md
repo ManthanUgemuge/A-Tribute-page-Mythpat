@@ -1,4 +1,4 @@
-# MythpatTributePage
+# Mythpat Tribute Page
 
 ## About The Project
 
