@@ -13,10 +13,10 @@ A Simple Tribute Page of Mythpat (Mithilesh Patankar) Using Basic HTML &amp; CSS
 ## How to use Project
 
 
-- Download or clone the repository
+- Download or clone the repository Website : 
 
 ```
-Website : https://github.com/ManthanUgemuge/MythpatTributePage
+https://github.com/ManthanUgemuge/MythpatTributePage.git
 
 ```
-Run Directly - https://manthanugemuge.github.io/MythpatTributePage/
+- Run Directly - https://manthanugemuge.github.io/MythpatTributePage/
