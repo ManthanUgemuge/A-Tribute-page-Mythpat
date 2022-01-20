@@ -20,3 +20,9 @@ https://github.com/ManthanUgemuge/MythpatTributePage.git
 
 ```
 - Run Directly - https://manthanugemuge.github.io/MythpatTributePage/
+
+## Contributing
+Pull requests are welcome, feel free to ```fork``` this repo.
+
+## License
+This project is open-sourced under the [MIT license]().
