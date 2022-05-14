@@ -20,7 +20,7 @@ A Simple Tribute Page of Mythpat (Mithilesh Patankar) Using Basic HTML &amp; CSS
 https://github.com/ManthanUgemuge/MythpatTributePage.git
 
 ```
-- Run Directly - [Live](https://manthanugemuge.github.io/MythpatTributePage/)//[Download]()
+- Run Directly - [Live](https://manthanugemuge.github.io/MythpatTributePage/)//[Download](https://github.com/ManthanUgemuge/MythpatTributePage/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
