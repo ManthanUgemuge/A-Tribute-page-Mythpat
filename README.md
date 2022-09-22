@@ -12,7 +12,6 @@ A Simple Tribute Page of Mythpat (Mithilesh Patankar) Using Basic HTML &amp; CSS
 
 ## How to use Project
 
-
 - Download or clone the repository Website : 
 
 ```
