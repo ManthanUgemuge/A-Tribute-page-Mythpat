@@ -15,7 +15,7 @@ A Simple Tribute Page of Mythpat (Mithilesh Patankar) Using Basic HTML &amp; CSS
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/mythpattributepage.git
+https://github.com/ManthanUgemuge/mythpat-tribute-page.git
 
 ```
 
